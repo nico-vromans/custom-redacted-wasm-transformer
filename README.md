@@ -4,7 +4,8 @@ This is a custom RedactedTransformer for [RepliByte], aiming to solve [this bug]
 This bug has already been fixed in [this PR], but no new release has been made since.
 
 You could compile the [main] branch (which has the fix in it) yourself, that could also work. This has been tested
-in [this fork] (the Windows build failed, but I didn't look it).
+in [this fork] (the Windows build failed, but I didn't look it). An [issue] has been created asking for an updated
+release.
 
 In order to compile and use this transformer, you can follow along with [these instructions], but this is a slightly
 updated method (primarily the target):
@@ -38,3 +39,5 @@ updated method (primarily the target):
 [these instructions]: https://www.replibyte.com/docs/advanced-guides/web-assembly-transformer/
 
 [this fork]: https://github.com/nico-vromans/Replibyte/releases/tag/v0.10.1
+
+[issue]: https://github.com/Qovery/Replibyte/issues/308
