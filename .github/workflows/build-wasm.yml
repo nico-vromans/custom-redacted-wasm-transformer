@@ -1,4 +1,4 @@
-name: Build redacted varchar array transformer WASM
+name: Build working redacted transformer WASM
 
 on:
   push:
