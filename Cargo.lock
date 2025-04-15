@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "custom-redacted-wasm-transformer"
+name = "replibyte-working-redacted-transformer"
 version = "0.1.0"

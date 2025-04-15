@@ -1,4 +1,4 @@
-# custom-redacted-wasm-transformer
+# replibyte-working-redacted-transformer
 
 This is a custom RedactedTransformer for [RepliByte], aiming to solve [this bug].
 This bug has already been fixed in [this PR], but no new release has been made since.
@@ -23,7 +23,7 @@ updated method (primarily the target):
             - name: <COLUMN_NAME>
               transformer_name: custom-wasm
               transformer_options:
-                path: "path/to/custom-redacted-wasm-transformer/target/wasm32-wasip1/release/custom-redacted-wasm-transformer.wasm"
+                path: "path/to/custom-redacted-wasm-transformer/target/wasm32-wasip1/release/replibyte-working-redacted-transformer.wasm"
     ```
 
 [//]: # (Links)
